@@ -1,0 +1,8 @@
+---
+title: "Tutorial6"
+author: "Bilal Raja"
+date: "2023-04-06"
+output: html_document
+---
+
+ACCEPT THIS OR ELSE.
